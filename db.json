@@ -1,0 +1,13 @@
+{
+    "intro-welcome": {
+        "scr_title": "Welcome",
+        "dpt_lead": {
+            "avatar": "https://scontent.fhrk3-1.fna.fbcdn.net/v/t1.0-9/22687542_10212377701572339_4992907803557220972_n.jpg?_nc_cat=110&_nc_oc=AQnEq4B4h5ESVLkUliUFe8yS2Q1FnDvoJnl0YubSl3s-1HWvFlq-CTes0JkPzVKHaM8&_nc_ht=scontent.fhrk3-1.fna&oh=535951a6c7721a3f2228b56824db0126&oe=5DED20A9",
+            "name": "Mr First Name and Last Name",
+            "job_title": "Title of job",
+            "signature": "https://studfiles.net/html/2706/132/html_cIRc0NvMni.aLWd/img-v8Jis_.jpg"
+        },
+        "greeting": "Jane, it is my great pleasure to welcome you to out exceptional service and sharing app. I look forward to meeting you soon."
+        "video": "https://www.youtube.com/watch?v=GlUnYoHkJQ0"
+    }
+}
