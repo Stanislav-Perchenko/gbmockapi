@@ -56,7 +56,8 @@
 							"aspect_ratio": 0.01,
 							"width": 0,
 							"style": {
-								"background-color": "#FFFF0000"
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
 							}
 						},{
 							"aspect_ratio": 0.44,
@@ -143,7 +144,8 @@
 							"aspect_ratio": 0.1,
 							"width": 5,
 							"style": {
-								"background-color": "#FFFF0000"
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
 							}
 						},{
 							"width": 0,
@@ -181,7 +183,8 @@
 							"aspect_ratio": 0.1,
 							"width": 5,
 							"style": {
-								"background-color": "#FFFF0000"
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
 							}
 						},{
 							"width": 0,
@@ -219,7 +222,8 @@
 							"aspect_ratio": 0.1,
 							"width": 5,
 							"style": {
-								"background-color": "#FFFF0000"
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
 							}
 						},{
 							"width": 0,
@@ -256,7 +260,8 @@
 							"aspect_ratio": 0.1,
 							"width": 5,
 							"style": {
-								"background-color": "#FFFF0000"
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
 							}
 						},{
 							"width": 0,
@@ -295,7 +300,8 @@
 							"aspect_ratio": 0.1,
 							"width": 5,
 							"style": {
-								"background-color": "#FFFF0000"
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
 							}
 						},{
 							"width": 0,
