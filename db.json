@@ -68,7 +68,7 @@
 							"width": 0,
 							"text": "ESS203",
 							"style": {
-								"text-color": "#ff555555",
+								"text-color": "#ff757575",
 								"font-size": 9,
 								"text-align": "left"
 							}
@@ -143,7 +143,7 @@
 							"width": 0,
 							"text": "ADMINISTRATION, LM",
 							"style": {
-								"text-color": "#ff555555",
+								"text-color": "#ff757575",
 								"font-size": 13,
 								"text-align": "left"
 							}
@@ -178,7 +178,7 @@
 							"width": 0,
 							"text": "BEN ZAHN",
 							"style": {
-								"text-color": "#ff555555",
+								"text-color": "#ff757575",
 								"font-size": 13,
 								"text-align": "left"
 							}
@@ -210,10 +210,10 @@
 							"aspect_ratio": 0.01,
 							"width": 5
 						},{
-							"width": -1,
+							"width": 0,
 							"text": "25 NOVEMBER 2015 22:46:11",
 							"style": {
-								"text-color": "#ff555555",
+								"text-color": "#ff757575",
 								"font-size": 13
 							}
 						}
@@ -247,7 +247,7 @@
 							"width": 0,
 							"text": "20 NOVEMBER 2016",
 							"style": {
-								"text-color": "#ff555555",
+								"text-color": "#ff757575",
 								"font-size": 13,
 								"text-align": "left"
 							}
@@ -283,7 +283,7 @@
 							"width": 0,
 							"text": "ADMINISTRATION, LM",
 							"style": {
-								"text-color": "#ff555555",
+								"text-color": "#ff757575",
 								"font-size": 13,
 								"text-align": "left"
 							}
