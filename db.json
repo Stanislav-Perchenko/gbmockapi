@@ -345,7 +345,7 @@
 					"margin_top": 8,
 					"cells": [
 						{
-							"aspect_ratio": 0.1,
+							"aspect_ratio": 0.05,
 							"width": 15,
 							"style": {
 								"background-color": "#FFFF0000",
@@ -362,7 +362,7 @@
 					]
 				},
 				{
-					"margin_top": 8,
+					"margin_top": 6,
 					"cells": [
 						{
 							"width": 15,
@@ -374,6 +374,222 @@
 						},{
 							"width": 0,
 							"text": "Principles in our approach to standards and quality are as follows:",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "centrally controlled core standards matched by local, department-level, documentation of detail",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "business-wide templating of operations documentation through the Insider database",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "the Insider information model distinguishing, Company Standards, SOPs, and Checklists",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "strong systems for department head orientation to maintain continuity in the quality system",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "clear linkage to standards via My Learning in each team member's Job Guide",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "documentation quality improvements through SOPs where problems are found to be recurring",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "explicit ownership of standards through nominated Job Group Leaders and support personnel",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 6,
+					"cells": [
+						{
+							"aspect_ratio": 0.05,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": -1,
+							"text": "\u2981\u0020\u0020",
+							"style": {
+								"text-color": "#ff000000",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "effective handover of standards management through the \"Rate for Release\" quality assurance function.",
 							"style": {
 								"text-color": "#ff454545",
 								"font-size": 11
