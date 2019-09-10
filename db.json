@@ -53,6 +53,7 @@
 								"vertical-align": "top"
 							}
 						},{
+							"aspect_ratio": 0.01,
 							"width": 0
 						},{
 							"aspect_ratio": 0.44,
@@ -75,6 +76,7 @@
 					]
 				},
 				{
+					"margin_top": 32,
 					"cells": [
 						{
 							"width": 0,
@@ -89,6 +91,7 @@
 					]
 				},
 				{
+					"margin_top": 2,
 					"cells": [
 						{
 							"width": 0,
@@ -105,7 +108,7 @@
 							"width": 0,
 							"text": "ADMINISTRATION",
 							"style": {
-								"text-color": "#ff222222",
+								"text-color": "#ff111111",
 								"font-size": 13,
 								"text-align": "left"
 							}
@@ -113,6 +116,7 @@
 					]
 				},
 				{
+					"margin_top": 2,
 					"cells": [
 						{
 							"width": 0,
@@ -129,11 +133,12 @@
 							"width": -1,
 							"text": "JOB GROUP",
 							"style": {
-								"text-color": "#ff222222",
+								"text-color": "#ff111111",
 								"font-size": 13
 							}
 						},{
-							"width": 10
+							"aspect_ratio": 0.01,
+							"width": 5
 						},{
 							"width": 0,
 							"text": "ADMINISTRATION, LM",
@@ -146,6 +151,7 @@
 					]
 				},
 				{
+					"margin_top": 2,
 					"cells": [
 						{
 							"width": 0,
@@ -162,11 +168,12 @@
 							"width": -1,
 							"text": "RECEPIENT",
 							"style": {
-								"text-color": "#ff222222",
+								"text-color": "#ff111111",
 								"font-size": 13
 							}
 						},{
-							"width": 1
+							"aspect_ratio": 0.01,
+							"width": 5
 						},{
 							"width": 0,
 							"text": "BEN ZAHN",
@@ -179,6 +186,7 @@
 					]
 				},
 				{
+					"margin_top": 2,
 					"cells": [
 						{
 							"width": 0,
@@ -195,11 +203,12 @@
 							"width": -1,
 							"text": "LAST EDITED",
 							"style": {
-								"text-color": "#ff222222",
+								"text-color": "#ff111111",
 								"font-size": 13
 							}
 						},{
-							"width": 1
+							"aspect_ratio": 0.01,
+							"width": 5
 						},{
 							"width": -1,
 							"text": "25 NOVEMBER 2015 22:46:11",
@@ -207,17 +216,33 @@
 								"text-color": "#ff555555",
 								"font-size": 13
 							}
-						},{
-							"width": 4
-						},{
+						}
+					]
+				},
+				{
+					"margin_top": 2,
+					"cells": [
+						{
+							"width": 0,
+							"height": 1,
+							"style": {
+								"background-color": "#FF000000"
+							}
+						}
+					]
+				},
+				{
+					"cells": [
+						{
 							"width": -1,
 							"text": "REVIEW DATE",
 							"style": {
-								"text-color": "#ff222222",
+								"text-color": "#ff111111",
 								"font-size": 13
 							}
 						},{
-							"width": 1
+							"aspect_ratio": 0.01,
+							"width": 5
 						},{
 							"width": 0,
 							"text": "20 NOVEMBER 2016",
@@ -230,6 +255,7 @@
 					]
 				},
 				{
+					"margin_top": 2,
 					"cells": [
 						{
 							"width": 0,
@@ -247,11 +273,12 @@
 							"width": -1,
 							"text": "OTHER STANDARDS (ALL TEAM)",
 							"style": {
-								"text-color": "#ff222222",
+								"text-color": "#ff111111",
 								"font-size": 13
 							}
 						},{
-							"width": 1
+							"aspect_ratio": 0.01,
+							"width": 5
 						},{
 							"width": 0,
 							"text": "ADMINISTRATION, LM",
