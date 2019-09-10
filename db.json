@@ -315,6 +315,73 @@
 					]
 				}
 			]
+		},
+		{
+			"is_folded": false,
+			"is_foldable": false,
+			"header": {
+				"margin_top": 64,
+				"text": "1    OVERVIEW",
+				"style": {
+					"font-size": 13,
+					"text-color": "#FF000000",
+					"font-weight": "bold"
+				}
+			},
+			"rows": [
+				{
+					"margin_top": 8,
+					"cells": [
+						{
+							"width": 0,
+							"height": 2,
+							"style": {
+								"background-color": "#FF000000"
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 8,
+					"cells": [
+						{
+							"aspect_ratio": 0.1,
+							"width": 15,
+							"style": {
+								"background-color": "#FFFF0000",
+								"vertical-align": "middle"
+							}
+						},{
+							"width": 0,
+							"text": "QUALITY: GENERAL APPROACHES",
+							"style": {
+								"text-color": "#ff111111",
+								"font-size": 9
+							}
+						}
+					]
+				},
+				{
+					"margin_top": 8,
+					"cells": [
+						{
+							"width": 15,
+							"text": "1.1",
+							"style": {
+								"text-color": "#ff111111",
+								"font-size": 11
+							}
+						},{
+							"width": 0,
+							"text": "Principles in our approach to standards and quality are as follows:",
+							"style": {
+								"text-color": "#ff454545",
+								"font-size": 11
+							}
+						}
+					]
+				}
+			]
 		}
 	]
 }
