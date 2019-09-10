@@ -50,7 +50,7 @@
 								"font-size": 13,
 								"font-weight": "bold",
 								"text-align": "center",
-								"vertical-align": "top"
+								"vertical-align": "center"
 							}
 						},{
 							"width": 0
@@ -133,7 +133,7 @@
 								"font-size": 13
 							}
 						},{
-							"width": 1
+							"width": 10
 						},{
 							"width": 0,
 							"text": "ADMINISTRATION, LM",
